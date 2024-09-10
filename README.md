@@ -2,4 +2,4 @@
 this is elzero template one website with HTML and CSS
 
 # Review
-https://khaledkaram510.github.io/elzero_template_one/
+https://khaledkaram510.github.io/template_one/
